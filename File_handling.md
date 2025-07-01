@@ -1,5 +1,4 @@
 # <a name="file-handling"></a>File handling
-
 * [open function](#open-function)
 * [Reading files](#reading-files)
 * [Writing to files](#writing-to-files)
