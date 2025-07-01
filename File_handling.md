@@ -3,7 +3,6 @@
 * [Reading files](#reading-files)
 * [Writing to files](#writing-to-files)
 * [Inplace editing with fileinput](#inplace-editing-with-fileinput)
-
 <br>
 
 ### <a name="open-function"></a>open function
