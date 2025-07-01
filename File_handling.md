@@ -4,7 +4,6 @@
 * [Writing to files](#writing-to-files)
 * [Inplace editing with fileinput](#inplace-editing-with-fileinput)
 <br>
-
 ### <a name="open-function"></a>open function
 
 * syntax: open(file, mode='r', buffering=-1, encoding=None, errors=None, newline=None, closefd=True, opener=None)
